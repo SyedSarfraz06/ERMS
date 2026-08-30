@@ -1,0 +1,5 @@
+Employee Id:
+Employee Name:
+Department:
+Designation:
+Salary:
