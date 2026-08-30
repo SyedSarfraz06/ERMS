@@ -1,5 +1,5 @@
-Employee Id:
-Employee Name:
-Department:
-Designation:
-Salary:
+Employee Id:12407391
+Employee Name:Sarfraz
+Department:IT
+Designation:CSE
+Salary:100000
